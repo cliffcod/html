@@ -1,9 +1,0 @@
-java.lang.IllegalArgumentException: There is no Activity which handles filePath = file:///data/data/org.chromium.arc/external/5C692ED324050630669C21EE6527E50E/CkcxTDM1QkdOb2Uzd29xRkZiNktuSGZjbTRPR1hMRmRlZmUtdFRnSHpXZVdLeTFWaV9ZTEpEV2VQU1Yza1ZLT05fTDVOdGlmQRJHMW1Qc3JWMzJLRkx2cGpqUzVESWE5dld0ZUdFdl9lM3gxWkZxcmRUTDEyaTQwTzVlZHdYV0c4RW9QSDNaejlEWkFZNmQ3dVE.aac mimeType=application/octet-stream
-	at org.chromium.arc.helper.FileHandlerLaunchHelperActivity.buildLaunchIntent(FileHandlerLaunchHelperActivity.java:122)
-	at org.chromium.arc.helper.FileHandlerLaunchHelperActivity.onMessage(FileHandlerLaunchHelperActivity.java:162)
-	at org.chromium.arc.ArcMessageBridge$1.handleMessage(ArcMessageBridge.java:75)
-	at org.chromium.arc.ArcMessageBridgeService$3.run(ArcMessageBridgeService.java:238)
-	at Android.MODEL(App Runtime for Chrome)
-	at Android.VERSION(5.0)
-	at Android.FINGERPRINT(chromium/arc/bare_metal_i686:5.0/54.5021.660.0/54.5021.660.0:user/release-keys)
-
